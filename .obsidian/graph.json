@@ -1,0 +1,121 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "README",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path: 컴파일러  ",
+      "color": {
+        "a": 1,
+        "rgb": 14851346
+      }
+    },
+    {
+      "query": "path:데이터베이스  ",
+      "color": {
+        "a": 1,
+        "rgb": 11725379
+      }
+    },
+    {
+      "query": "path: 정보보호  ",
+      "color": {
+        "a": 1,
+        "rgb": 2158112
+      }
+    },
+    {
+      "query": "path: 알고리즘  ",
+      "color": {
+        "a": 1,
+        "rgb": 9958100
+      }
+    },
+    {
+      "query": "path: 자료구조",
+      "color": {
+        "a": 1,
+        "rgb": 8247768
+      }
+    },
+    {
+      "query": "path: 고전음악의이해  ",
+      "color": {
+        "a": 1,
+        "rgb": 16510134
+      }
+    },
+    {
+      "query": "path: 운영체제  ",
+      "color": {
+        "a": 1,
+        "rgb": 11361494
+      }
+    },
+    {
+      "query": "path: 프로그래밍언어  ",
+      "color": {
+        "a": 1,
+        "rgb": 1756086
+      }
+    },
+    {
+      "query": "path: MixPath  ",
+      "color": {
+        "a": 1,
+        "rgb": 9926776
+      }
+    },
+    {
+      "query": "path: Math  path:이산수학  ",
+      "color": {
+        "a": 1,
+        "rgb": 3818381
+      }
+    },
+    {
+      "query": "path:리눅스프로그래밍  ",
+      "color": {
+        "a": 1,
+        "rgb": 4527451
+      }
+    },
+    {
+      "query": "path:개발관련  ",
+      "color": {
+        "a": 1,
+        "rgb": 10111528
+      }
+    },
+    {
+      "query": "path: 컴퓨터네트워크  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 1.3,
+  "nodeSizeMultiplier": 2.81796875,
+  "lineSizeMultiplier": 3,
+  "collapse-forces": false,
+  "centerStrength": 0.7,
+  "repelStrength": 11.1979166666667,
+  "linkStrength": 1,
+  "linkDistance": 225,
+  "scale": 0.2726859917360093,
+  "close": false
+}

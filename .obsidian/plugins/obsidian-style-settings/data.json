@@ -1,0 +1,12 @@
+{
+  "things-style@@mobile-black-background": false,
+  "things-style@@floating-button-off": true,
+  "things-style@@fancy-code": false,
+  "things-style@@link-decoration": "None",
+  "things-style@@link-external-decoration": "None",
+  "things-style@@no-kanban-styles": false,
+  "things-style@@no-minimal-title-bar": true,
+  "things-style@@h2-underline": true,
+  "things-style@@fancy-highlight": false,
+  "things-style@@active-line": true
+}

@@ -147,9 +147,9 @@ V8 엔진은 JS 엔진으로, 기존 JS보다 매우 높은 성능을 이끌어�
 JS의 성능이 높아지면서, 일반적인 용도(general purpose)로 사용하고 싶어 Node.js가 등장하게 되었다.
 
 ## 학습 추가 포인트
-
 - Chrome V8, Blink
 - Node.js 역사, 만든 이유, 만든 사람
 - Node.js의 구성요소들과 동작 원리
 - 논블로킹 vs 블로킹
 - Node.js 디버깅 도구
+- 주소창에서 특정 리소스에 대한 요청을 보내 응답하기 전까지 일어나는 일들을 Http Request -> Express -> Node.js -> EventLoop -> LibUV -> OS(Linux) 의 관점에서 이해하기
